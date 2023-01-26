@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aakifahkhan
-- 📫 I'm looking to hire Software Developers in North-West England!
+- 📫 I'm looking to hire Software Developers in the UK!
 - Contact me on 07966 531867 or email Aakifah.khan@morson.com
 
 <!---
