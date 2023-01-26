@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @aakifahkhan
 - 📫 I'm looking to hire Software Developers in the UK!
 - Contact me on 07966 531867 or email Aakifah.khan@morson.com
+- My LinkedIn profile is: https://www.linkedin.com/in/aakifah-khan/
 
 <!---
 aakifahkhan/aakifahkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
