@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aakifahkhan
 - 📫 I'm looking to hire Software Developers in North-West England!
-- Contact me on 0161 989 6954 or email Aakifah.khan@morson.com
+- Contact me on 07966 531867 or email Aakifah.khan@morson.com
 
 <!---
 aakifahkhan/aakifahkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
